@@ -1,4 +1,5 @@
 # Linkedin-Full_Stack
+
 Html: Jen Simmons
     Content:
         Basics and Syntax of Html elements
@@ -49,7 +50,7 @@ Html: Jen Simmons
             
             Date: YYYY-MM-DD
 
-            Time: hh-mm-ss.ddd    [note: Sy=tored in 24 hre=s format]
+            Time: hh-mm-ss.ddd    [note: Sy=tored in 24 hrs format]
 
 
         Code pre and br
@@ -69,4 +70,22 @@ Html: Jen Simmons
 
         ARIA role
 
+        Link
+            Syntax:  <a href="Link_here">Click Here</a>
 
+        Images
+            Syntax: <img src="" alt="" width="" height=""
+                    srcset="url1.jpg 2x, url2.jpg 3x">
+
+        Audio
+            Syntax: <audio controls src="" loop autoplay></audio>
+
+        Video
+            Syntax:  <video></video>
+
+        Caption & Subtitles
+            Syntax: <track src="" kind="captions" label="English" srclang="es" default>
+                    <track src="" kind="subtitles" label="Espanol" srclang="es" >
+
+        Embedding other media through iframes
+        
