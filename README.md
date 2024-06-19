@@ -76,6 +76,7 @@ Html: Jen Simmons
         Images
             Syntax: <img src="" alt="" width="" height=""
                     srcset="url1.jpg 2x, url2.jpg 3x">
+                    <Figure><Figcaption>
 
         Audio
             Syntax: <audio controls src="" loop autoplay></audio>
@@ -88,4 +89,10 @@ Html: Jen Simmons
                     <track src="" kind="subtitles" label="Espanol" srclang="es" >
 
         Embedding other media through iframes
+
+        Tables 
+
+
+CSS: Cristina Truong
+    
         
