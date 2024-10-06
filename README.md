@@ -50,7 +50,7 @@ Html: Jen Simmons
             
             Date: YYYY-MM-DD
 
-            Time: hh-mm-ss.ddd    [note: Sy=tored in 24 hrs format]
+            Time: hh-mm-ss.ddd    [note: Stored in 24 hrs format]
 
 
         Code pre and br
@@ -95,4 +95,24 @@ Html: Jen Simmons
 
 CSS: Cristina Truong
     
-        
+    Types:
+        inline
+            Syntax:  <p style="color:red;font-size:12px;">Red Text</p>
+
+        internal 
+            This is added to the Head section of the HTML file
+            Syntax:  p{color: red;}
+
+        External
+            The link of the external CSS file is added in the head of the HTML file 
+            syntax:
+                    <head>
+                        <link rel="stylesheet" href="file_path">
+                    </head>
+
+    Pseudo classes/ Elements
+
+    Specificity
+    
+    Key words
+        !important
